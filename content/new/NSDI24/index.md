@@ -1,5 +1,5 @@
 ---
-title: "2023/12 Paper Accepted in USENIX NSDI'24, 'LiFteR: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing'"
+title: "[2023/12] Paper Accepted in USENIX NSDI'24, 'LiFteR: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing'"
 
 # event: Wowchemy Conference
 # event_url: https://example.org
