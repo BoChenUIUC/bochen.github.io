@@ -150,7 +150,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
   - block: collection
     id: featured
@@ -161,7 +161,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
   - block: collection
     id: teaching
@@ -171,7 +171,7 @@ sections:
         folders:
           - teaching
     design:
-      columns: '2'
+      columns: '1'
       view: list
   - block: collection
     id: awards
@@ -181,7 +181,7 @@ sections:
         folders:
           - award
     design:
-      columns: '2'
+      columns: '1'
       view: list
   - block: collection
     id: services
@@ -191,7 +191,7 @@ sections:
         folders:
           - service
     design:
-      columns: '2'
+      columns: '1'
       view: list
   # - block: tag_cloud
   #   content:

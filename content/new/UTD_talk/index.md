@@ -1,5 +1,5 @@
 ---
-title: "2024/03 Invited Talk at UT Dallas, 'Advancing Immersive Computing Systems in Age of Machine Learning'"
+title: "<span style="color:red;">2024/03</span> Invited Talk at UT Dallas, 'Advancing Immersive Computing Systems in Age of Machine Learning'"
 
 # event: Wowchemy Conference
 # event_url: https://example.org
