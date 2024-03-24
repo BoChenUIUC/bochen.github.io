@@ -1,5 +1,5 @@
 ---
-title: "2024/03 Paper Accepted in ACM MobiSys'24: "NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications""
+title: "2024/03 Paper Accepted in ACM MobiSys'24: 'NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications'"
 
 # event: Wowchemy Conference
 # event_url: https://example.org
