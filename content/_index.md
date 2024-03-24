@@ -132,6 +132,16 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
+    id: news
+    content:
+      title: News
+      filters:
+        folders:
+          - new
+    design:
+      columns: '2'
+      view: list
+  - block: collection
     id: featured
     content:
       title: Selected Publications
