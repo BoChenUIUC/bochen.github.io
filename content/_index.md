@@ -140,7 +140,7 @@ sections:
           - new
     design:
       columns: '1'
-      view: list
+      view: compact
   - block: collection
     id: featured
     content:
@@ -181,7 +181,7 @@ sections:
         folders:
           - award
     design:
-      columns: '1'
+      columns: '2'
       view: list
   - block: collection
     id: services
@@ -191,7 +191,7 @@ sections:
         folders:
           - service
     design:
-      columns: '1'
+      columns: '2'
       view: list
   # - block: tag_cloud
   #   content:
