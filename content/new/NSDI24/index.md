@@ -1,5 +1,5 @@
 ---
-title: "2024/03 Invited Talk at UT Dallas: "Advancing Immersive Computing Systems in Age of Machine Learning""
+title: "2023/12 Paper Accepted in USENIX NSDI'24: "LiFteR: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing""
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -12,17 +12,17 @@ title: "2024/03 Invited Talk at UT Dallas: "Advancing Immersive Computing System
 #   postcode: '94305'
 #   country: United States
 
-summary: Invited talk
+summary: Accepted paper
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03-21T00:00:00Z'
-date_end: '2024-03-21T00:00:00Z'
+date: '2023-12-07T00:00:00Z'
+date_end: '2023-12-07T00:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-03-21T00:00:00Z'
+publishDate: '2023-12-07T00:00:00Z'
 
 authors: []
 tags: []
