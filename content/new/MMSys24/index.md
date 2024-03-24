@@ -1,5 +1,5 @@
 ---
-title: "2024/03 Paper Accepted in ACM MobiSys'24, 'NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications'"
+title: "2024/01 Paper Accepted in ACM MMSys'24, "Learning to Manage Uncertainty in Video Streaming""
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -17,12 +17,12 @@ summary: Accepted paper
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03-06T00:00:00Z'
-date_end: '2024-03-06T00:00:00Z'
+date: '2024-01-23T00:00:00Z'
+date_end: '2024-01-23T00:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-03-06T00:00:00Z'
+publishDate: '2024-01-23T00:00:00Z'
 
 authors: []
 tags: []
