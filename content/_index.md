@@ -11,6 +11,16 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: collection
+    id: news
+    content:
+      title: News
+      filters:
+        folders:
+          - new
+    design:
+      columns: '1'
+      view: list
   - block: experience
     content:
       title: Experience
@@ -131,16 +141,6 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
-    id: news
-    content:
-      title: News
-      filters:
-        folders:
-          - new
-    design:
-      columns: '1'
-      view: list
   - block: collection
     id: featured
     content:
