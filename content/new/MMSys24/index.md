@@ -1,5 +1,5 @@
 ---
-title: '2024/01 Paper Accepted in ACM MMSys'24, "Learning to Manage Uncertainty in Video Streaming"'
+title: "2024/01 Paper Accepted in ACM MMSys'24, 'Learning to Manage Uncertainty in Video Streaming'"
 
 # event: Wowchemy Conference
 # event_url: https://example.org
