@@ -140,7 +140,7 @@ sections:
           - new
     design:
       columns: '1'
-      view: compact
+      view: list
   - block: collection
     id: featured
     content:
@@ -171,7 +171,7 @@ sections:
         folders:
           - teaching
     design:
-      columns: '1'
+      columns: '2'
       view: list
   - block: collection
     id: awards
