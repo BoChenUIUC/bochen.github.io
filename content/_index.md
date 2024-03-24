@@ -139,7 +139,7 @@ sections:
         folders:
           - new
     design:
-      columns: '2'
+      columns: '1'
       view: list
   - block: collection
     id: featured
