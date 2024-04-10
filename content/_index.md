@@ -152,17 +152,17 @@ sections:
     design:
       columns: '1'
       view: citation
-  - block: collection
-    id: featured
-    content:
-      title: Publications/Submissions
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '1'
-      view: citation
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Publications/Submissions
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '1'
+  #     view: citation
   - block: collection
     id: teaching
     content:
