@@ -61,11 +61,14 @@ social:
   #   display:
   #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=E8mxs2UAAAAJ&hl=zh-CN
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://dblp.org/pid/89/5615-25.html
   - icon: github
     icon_pack: fab
-    link: https://github.com/BoChenUIUC
+    link: https://github.com/bochen-sysnet
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E5%8D%9A-%E9%99%88-8a5056124/
@@ -73,6 +76,9 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
+    icon_pack: ai
+    link: uploads/CV.pdf
+  - icon: statement
     icon_pack: ai
     link: uploads/CV.pdf
 
