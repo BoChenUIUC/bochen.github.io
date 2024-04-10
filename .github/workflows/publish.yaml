@@ -50,7 +50,7 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-          hugo --minify --baseURL "https://bochen-sysnet.github.io/"
+          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
@@ -61,7 +61,7 @@ jobs:
     if: github.repository_owner != 'HugoBlox'
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://bochen-sysnet.github.io/
     runs-on: ubuntu-latest
     needs: build
     steps:
