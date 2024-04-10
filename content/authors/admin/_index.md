@@ -63,9 +63,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=E8mxs2UAAAAJ&hl=zh-CN
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://dblp.org/pid/89/5615-25.html
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://dblp.org/pid/89/5615-25.html
   - icon: github
     icon_pack: fab
     link: https://github.com/bochen-sysnet
@@ -76,9 +76,6 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
-    icon_pack: ai
-    link: uploads/CV.pdf
-  - icon: statement
     icon_pack: ai
     link: uploads/CV.pdf
 
@@ -93,5 +90,5 @@ This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) 
 
 My primary research interests lie in building end-to-end immersive computing systems that cover the generation, delivery, rendering, and analysis of immersive content like acoustic signals, IMU sensors, images, videos, and neural representations. My past research experiences focus on bridging the gap between advanced ML techinques and practical immersive computing systems via the ML-system co-design.
 
-I am now actively looking for tenure-track faculty positions. Feel free to ping me if you have any openings.
+I am now actively looking for tenure-track faculty positions. Feel free to ping me if you have any openings. [CV](uploads/CV.pdf)
 {style="text-align: justify;"}
