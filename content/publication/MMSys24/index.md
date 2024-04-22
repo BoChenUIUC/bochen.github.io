@@ -33,7 +33,7 @@ publication_types: ['1']
 publication: "The 15th ACM Multimedia Systems Conference"
 publication_short: "MMSys'24"
 
-# abstract: Todo.
+abstract: "Video codecs are crucial in video streaming systems. However, the quantization operation in existing codecs introduces irreversible jitters. Moreover, the common practice of fitting a single codec to diverse video content lacks the flexibility to adapt the parameters of a codec for specific content. They lead to the problem of quantization and content uncertainty. Our preliminary study shows an ideal codec without uncertainty gains a significant advantage over the conventional codec with uncertainty. However, realizing the ideal codec presents tremendous challenges in the generalizability and the costs of computation, transmission, and delay. In this paper, we present Vesper, a video streaming system that innovatively tackles uncertainty with two learning-based components, super-precision and self-evolution. The super-precision module builds a neural network that predicts original feature values from quantized feature values, which effectively mitigates the impact of quantization without inducing generalizability issues. The self-evolution module performs content-aware adaptation on the encoder and replaces non-content-aware video segments with content-aware ones on the fly, which addresses content uncertainty without adding significant costs to on-demand streaming. Evaluations demonstrate Vesper's superior Quality of Experience compared to streaming systems built with state-of-the-art codecs."
 
 # Summary. An optional shortened abstract.
 # summary: Todo.
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3524273.3528178'
+url_pdf: 'https://dl.acm.org/doi/10.1145/3625468.3647621'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''

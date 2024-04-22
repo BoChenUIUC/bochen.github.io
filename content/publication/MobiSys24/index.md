@@ -32,8 +32,7 @@ publication_types: ['1']
 publication: "The 22nd ACM International Conference on Mobile Systems, Applications, and Services"
 publication_short: "MobiSys'24"
 
-abstract: Neural Radiance Fields (NeRF) are recognized for their exceptional photo-realism quality and superior modeling capabilities compared to traditional methods. NeRF empowers a novel application, termed NeRF serving. It delivers data from a server to a mobile client and renders 3D scenes on the client, facilitating a broad spectrum of mobile immersive applications.
-Towards a satisfactory user experience, we must serve NeRF with low latency while meeting constraints of high visual quality and real-time smoothness. Existing NeRF variants easily violate the constraints or cause an unnecessarily high latency when the diverse applications, mobile devices, and 3D scenes, termed the contexts, change in real life. In this paper, we present NeRFHub, a novel context-aware NeRF serving framework for mobile immersive applications. NeRFHub adeptly manages storage and computation costs, scales to diverse contexts, and swiftly navigates the vast design space inherent in NeRF serving. The evaluation results show that NeRFHub serves synthetic objects with 56%-66% reduced latency and realistic scenes with 26%-55% reduced latency when compared to the baseline without compromising quality or smoothness.
+abstract: "Neural Radiance Fields (NeRF) are recognized for their exceptional photo-realism quality and superior modeling capabilities compared to traditional methods. NeRF empowers a novel application, termed NeRF serving. It delivers data from a server to a mobile client and renders 3D scenes on the client, facilitating a broad spectrum of mobile immersive applications. Towards a satisfactory user experience, we must serve NeRF with low latency while meeting constraints of high visual quality and real-time smoothness. Existing NeRF variants easily violate the constraints or cause an unnecessarily high latency when the diverse applications, mobile devices, and 3D scenes, termed the contexts, change in real life. In this paper, we present NeRFHub, a novel context-aware NeRF serving framework for mobile immersive applications. NeRFHub adeptly manages storage and computation costs, scales to diverse contexts, and swiftly navigates the vast design space inherent in NeRF serving. The evaluation results show that NeRFHub serves synthetic objects with 56%-66% reduced latency and realistic scenes with 26%-55% reduced latency when compared to the baseline without compromising quality or smoothness."
 
 # Summary. An optional shortened abstract.
 # summary: Todo.
@@ -48,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://www.sigmobile.org/mobisys/2024/accepted-papers.html
+url_pdf: 'https://www.sigmobile.org/mobisys/2024/accepted-papers.html'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
