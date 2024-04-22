@@ -35,12 +35,12 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.usenix.org/system/files/nsdi24-chen-bo.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-# url_slides: ''
+url_slides: https://www.usenix.org/system/files/nsdi24_slides-chen_bo.pdf
 # url_source: '#'
 # url_video: '#'
 
